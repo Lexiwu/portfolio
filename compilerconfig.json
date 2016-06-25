@@ -1,0 +1,34 @@
+﻿[
+  {
+    "outputFile": "CSS/nav.css",
+    "inputFile": "CSS/nav.scss"
+  },
+  {
+    "outputFile": "CSS/home.css",
+    "inputFile": "CSS/home.scss"
+  },
+  {
+    "outputFile": "CSS/about.css",
+    "inputFile": "CSS/about.scss"
+  },
+  {
+    "outputFile": "CSS/skill.css",
+    "inputFile": "CSS/skill.scss"
+  },
+  {
+    "outputFile": "CSS/work.css",
+    "inputFile": "CSS/work.scss"
+  },
+  {
+    "outputFile": "CSS/contact.css",
+    "inputFile": "CSS/contact.scss"
+  },
+  {
+    "outputFile": "CSS/thanks.css",
+    "inputFile": "CSS/thanks.scss"
+  },
+  {
+    "outputFile": "CSS/layout.css",
+    "inputFile": "CSS/layout.scss"
+  }
+]
