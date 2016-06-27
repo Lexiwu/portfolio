@@ -4,8 +4,9 @@
 
 .work-position {
   display: inline-block;
-  margin: 10px;
-  box-sizing: border-box; }
+  margin: 60px 10px 10px 10px;
+  box-sizing: border-box;
+  transition: all 1s ease; }
 
 .big-text {
   font-size: 60px;
@@ -30,7 +31,8 @@
   box-shadow: 1px 1px 3px black; }
 
 .ih-item.square.effect3 {
-  overflow: hidden; }
+  overflow: hidden;
+  opacity: 0; }
 
 .ih-item a {
   color: #fff;

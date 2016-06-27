@@ -7,8 +7,10 @@
 
 .work-position{
     display: inline-block;
-    margin: 10px;
+    margin: 60px 10px 10px 10px;
     box-sizing: border-box;
+    transition: all 1s ease;
+
 }
 
 .big-text{
@@ -41,6 +43,7 @@
 
 .ih-item.square.effect3{
     overflow: hidden;
+    opacity: 0;
 }
 
 .ih-item a{

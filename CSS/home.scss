@@ -17,44 +17,53 @@
 
 .text-html{
     position: relative;
-    top: 78px;
+    top: 60px;
     left: 95px;
 }
 .text-css{
     position: relative;
-    top: 160px;
-    left: -30px;
+    top: 99px;
+    left: -40px;
 }
 .text-javascript{
     position: relative;
-    top: 191px;
+    top: 137px;
+    left: -27px;
 }
 .text-front{
     position: relative;
-    top: 143px;
-    left: -96px;
+    top: 175px;
+    left: 101px;
 }
 .text-web{
     position: relative;
-    top: 215px;
-    left: 10px;
+    top: 170px;
+    left: 125px;
 }
 
 .text-jquery{
     position: relative;
-    top: 60px;
-    left: -10px;
+    top: 27px;
+    left: 22px;
 }
 .text-sass{
     position: relative;
-    top: 191px;
-    left: -4px;
+    top: 130px;
+    left: -140px;
 }
 .text-animate{
     position: relative;
     left: -58px;
-    top: 10px;
+    top: -10px;
 }
+
+.text-git{
+    position: relative;
+    top: 42px;
+    left: -135px;
+}
+
+
 
 
 
@@ -65,8 +74,8 @@
 .big-cloud{
     background-image: url('../image/cloud-big.png');
     background-repeat: no-repeat;
-    width: 600px;
-    height: 400px;
+    width: 510px;
+    height: 335px;
     position: relative;
 
 }
@@ -74,10 +83,10 @@
 .med-cloud {
     background-image: url('../image/cloud-med.png');
     background-repeat: no-repeat;
-    width: 200px;
-    height: 120px;
+    width: 182px;
+    height: 132px;
     position: relative;
-    left: 30%;
+    left: 37%;
     top: -50px;
     
 }
@@ -85,10 +94,11 @@
 .sma-cloud{
     background-image: url('../image/cloud-small.png');
     background-repeat: no-repeat;
-    width: 90px;
-    height: 70px;
+    width: 126px;
+    height: 80px;
     position: relative;
-    left: 29%;
+    left: 16%;
+    top: -47px;
    
 }
 
@@ -109,24 +119,27 @@
 }
 
 .home-text{
-    position:absolute;
-    left: 58%;
-    top: 30%;
+    position: absolute;
+    top: 74%;
+    left: 42%;
 }
 
-.home-text span{
-    font-size: 60px;
+.home-text span,.slogn{
+    font-size: 40px;
     font-family: 'Ultra', serif;
     color:#143952;
 }
 
-.lexi{
-    position:relative;
-    top: 100px;
+.slogn{
+    position: absolute;
+    top: 230px;
+    left: 970px;
+    text-align: left;
 }
 
+
 .move {
-        margin-left: 10%;
+        margin-left: 16%;
     -moz-animation: myanimate 5s; /* Firefox */
     -webkit-animation: myanimate 5s; /* Safari 和 Chrome */
     -o-animation: myanimate 5s;
@@ -286,7 +299,7 @@
 
 .wind{
     position:relative;
-    top: -480px;
+    top: -446px;
     left: 1000px;
 }
 
