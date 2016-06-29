@@ -1,7 +1,11 @@
 ﻿.home{
-    background-color: #b2d4e5;
-    width: 100%;
-    
+    background: #9fcadf  50% 0 no-repeat fixed; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#9fcadf, #4d626c)  50% 0 no-repeat fixed;/* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#9fcadf, #4d626c)  50% 0 no-repeat fixed; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#9fcadf, #4d626c)  50% 0 no-repeat fixed; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#9fcadf, #4d626c)  50% 0 no-repeat fixed; /* Standard syntax */
+    width: 100%;   
+    height: auto;
 }
 
 .home-font-big{
@@ -72,34 +76,31 @@
 
 
 .big-cloud{
-    background-image: url('../image/cloud-big.png');
+    background-image: url('../image/home/cloud-big.png');
     background-repeat: no-repeat;
     width: 510px;
     height: 335px;
     position: relative;
-
 }
 
 .med-cloud {
-    background-image: url('../image/cloud-med.png');
+    background-image: url('../image/home/cloud-med.png');
     background-repeat: no-repeat;
     width: 182px;
     height: 132px;
     position: relative;
     left: 37%;
-    top: -50px;
-    
+    top: -50px;  
 }
 
 .sma-cloud{
-    background-image: url('../image/cloud-small.png');
+    background-image: url('../image/home/cloud-small.png');
     background-repeat: no-repeat;
     width: 126px;
     height: 80px;
     position: relative;
     left: 16%;
-    top: -47px;
-   
+    top: -47px;   
 }
 
 .arrow-down {

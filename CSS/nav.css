@@ -31,5 +31,6 @@
   padding-top: 15px;
   cursor: pointer;
   color: #fff;
-  display: none; }
+  display: none;
+  z-index: 3; }
 

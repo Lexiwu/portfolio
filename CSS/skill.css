@@ -1,7 +1,7 @@
 ﻿.skill {
-  background-color: #9fb4c7;
-  background-image: url("../image/self2.png");
+  background: #9fb4c7;
   width: 100%;
+  height: auto;
   overflow: hidden; }
 
 .self-back {
