@@ -84,6 +84,7 @@ Class Definitions
   line-height: 160%;
   vertical-align: middle;
   display: table-cell;
+  font-family: 'Architects Daughter', cursive; 
 }
 
 .immersive_slider .is-slide .content h2{

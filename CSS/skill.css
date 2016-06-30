@@ -1,10 +1,4 @@
-﻿.skill {
-  background: #9fb4c7;
-  width: 100%;
-  height: auto;
-  overflow: hidden; }
-
-.self-back {
+﻿.self-back {
   float: right;
   position: relative;
   top: -654px; }
