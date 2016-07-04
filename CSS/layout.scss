@@ -7,9 +7,15 @@
 }
 
 .home{
-    background-color: #b2d4e5;
+    background: #9fcadf  50% 0 no-repeat fixed; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed;/* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* Standard syntax */
     width: 100%;   
+    height: auto;
 }
+
 
 .about{
     background: #fff;
@@ -43,9 +49,9 @@
     width: 100%;
     height: auto;
     background: #9fcadf  50% 0 no-repeat fixed; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#9fcadf, #85a7b7)  50% 0 no-repeat fixed;/* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#9fcadf, #85a7b7)  50% 0 no-repeat fixed; /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#9fcadf, #85a7b7)  50% 0 no-repeat fixed; /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#9fcadf, #85a7b7)  50% 0 no-repeat fixed; /* Standard syntax */
+    background: -webkit-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed;/* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#9fcadf, #94b6c7)  50% 0 no-repeat fixed; /* Standard syntax */
 }
 

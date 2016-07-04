@@ -11,7 +11,8 @@
 
 .info h3, p {
   margin-top: 10px;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  font-size: 16px; }
 
 .info h3 {
   font-size: 16px; }

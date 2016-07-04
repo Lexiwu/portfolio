@@ -3,7 +3,7 @@
   font-family: "Microsoft YaHei",Avenir Next, Helvetica Neue, Helvetica, Tahoma, sans-serif;
   font-size: 1em;
   font-weight: 700;
-  font-family: 'Ultra', serif;
+  font-family: 'Architects Daughter', cursive;
 }
 .thanks p span {
   display: inline-block;
@@ -30,16 +30,16 @@
 .thanks p span::before {
   z-index: 1;
   color: rgba(0,0,0,0.2);
-  font-family: 'Ultra', serif;
+  font-family: 'Architects Daughter', cursive;
   -webkit-transform: scale(1.1, 1) skew(0deg, 20deg);
       -ms-transform: scale(1.1, 1) skew(0deg, 20deg);
           transform: scale(1.1, 1) skew(0deg, 20deg);
 }
 .thanks p span::after {
   z-index: 2;
-  color: #96d0ee;
-  font-family: 'Ultra', serif;
-  text-shadow: -1px 0 1px #96d0ee, 1px 0 1px rgba(0,0,0,0.8);
+  color: #94b6c7;
+  font-family: 'Architects Daughter', cursive;
+  text-shadow: -1px 0 1px #94b6c7, 1px 0 1px rgba(0,0,0,0.8);
   -webkit-transform: rotateY(-40deg);
           transform: rotateY(-40deg);
 }
